@@ -1,26 +1,27 @@
-# Hi there! 👋 
+# Hi! 👋 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans+Latin&size=15&duration=6000&pause=1000&width=435&lines=Premature+optimization+is+the+root+of+all+evil;First%2C+solve+the+problem.;One+commit+at+a+time)](https://git.io/typing-svg)
 
 ![line](./img/line.gif)
 
-## I'm a Developer and Tech enthusiast
+## I'm a Full Stack Developer.
 
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate with other software developers
-- 🥅 2022 Goals: Learn more about Backend development
-- ⚡ Fun fact: I love playing pool
+- 🌱 I’m currently learning JavaScript at Microverse.
+- 👯 I’m looking to collaborate with full Stack software developers.
+- 🥅 2023 Goals: To become a successful Full Stack Developer.
+
 ![line](./img/line.gif)
 
 ### Connect with me:
 
-[![jeanlouismukaba01@yahoo.com](./img/gmail.svg)](jeanlouismukaba01@yahoo.com)
+[![jeanlouismukaba01@yahoo.com](./img/gmail.svg)](javedshahbaz007@gmail.com)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/JeanlouisMukaba#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/JeanlouisMukaba#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/javedshahbaz007)
+
+[![website](./img/twitter-dark.svg)](https://twitter.com/javedshahbaz007#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kitenge-mukaba-jean-louis-71a2441bb#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kitenge-mukaba-jean-louis-71a2441bb#gh-dark-mode-only)
+
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/javed-shahbaz)
 &nbsp;&nbsp;
 [line](./img/line.gif)
 
@@ -36,10 +37,3 @@
 
 <br />
 <br />
-
-![line](./img/line.gif)
-
-### MY GITHUB STATISTICS &nbsp; <img src="./img/statistics.png" height="30" align="justify"/>
-
-[![Mkuaba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukaba&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukaba&card_width=250&langs_count=6&hide_border=true&layout=compact&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
