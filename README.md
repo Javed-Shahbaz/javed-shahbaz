@@ -1,9 +1,5 @@
-# Hi! 👋 
+# Hi! 👋  Javed Shahbaz Here
 
-## I'm a Full Stack Developer.
+## A Full Stack Developer.
 
-- 🌱 I’m currently learning JavaScript at Microverse.
-
-- 👯 I’m looking to collaborate with full Stack software developers.
-
-- 🥅 2023 Goals: To become a successful Full Stack Developer.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Full-Stack+developer+with+04+months+of+experience.+My+expertise+included+Python+HTML+JavaScript,+and+Node.js(https://git.io/typing-svg)]<br><img src="./line.gif">
