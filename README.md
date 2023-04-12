@@ -11,3 +11,8 @@
 <img src="https://streak-stats.demolab.com/?user=Javed-Shahbaz" width='500'/> 
 </div><br><br>
 <img src="./line.gif">
+
+<h3 align="center"> 
+  Profile Visited <br><br>
+  <img src="https://profile-counter.glitch.me/Javed-Shahbaz/count.svg" />
+</h3><br>                     
