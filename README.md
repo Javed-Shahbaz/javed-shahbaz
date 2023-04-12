@@ -2,5 +2,5 @@
 
 ## A Full Stack Developer.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Full-Stack+developer;+Haveing+developement+experience+of+04+months.;)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Full-Stack+developer.;+Haveing+developement+experience;+of+04+months.;)](https://git.io/typing-svg)<br>
 <img src="./line.gif">
