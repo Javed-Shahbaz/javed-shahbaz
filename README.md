@@ -1,6 +1,6 @@
 # Hi! 👋  I'm Javed Shahbaz
 
-## A Full Stack Developer.
+## Artificial Intelligence & Full Stack Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=An+Artificial+Intellegence+Expert.;+A+Full+Stack+Developer.;+Haveing+developement+experience;+of+01+year+in+AI.;)](https://git.io/typing-svg)
 <img src="./line.gif">
